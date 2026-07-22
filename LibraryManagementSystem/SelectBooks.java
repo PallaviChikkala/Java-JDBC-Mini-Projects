@@ -7,7 +7,7 @@ public class SelectBooks {
     {
         String url = "jdbc:mysql://localhost:3306/LibraryManagementSystem";
         String username = "root";
-        String password = "Pallavi@2007";
+        String password = "your_sql_password";
 
         String query = "SELECT * FROM book;";
 
