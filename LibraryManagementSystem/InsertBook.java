@@ -1,7 +1,7 @@
 package LibraryManagementSystem;
 import java.sql.*;
 
-public class Insert {
+public class InsertBook {
     public static void main(String args[])
     {
         String url = "jdbc:mysql://localhost:3306/LibraryManagementSystem";
