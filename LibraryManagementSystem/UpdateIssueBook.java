@@ -8,7 +8,7 @@ public class UpdateIssueBook {
     {
         String url = "jdbc:mysql://localhost:3306/LibraryManagementSystem";
         String username = "root";
-        String password = "Pallavi@2007";
+        String password = "your_sql_password";
 
         String query1 = "UPDATE book SET available = ? WHERE book_id = ?;";
 
