@@ -12,7 +12,8 @@ This repository is created as part of my Java and JDBC learning journey and will
 - JDBC (Java Database Connectivity)
 - MySQL
 - MySQL Connector/J
-- IntelliJ IDEA
+- VS Code
+
 
 ---
 
