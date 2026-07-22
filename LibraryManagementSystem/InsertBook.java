@@ -6,7 +6,7 @@ public class InsertBook {
     {
         String url = "jdbc:mysql://localhost:3306/LibraryManagementSystem";
         String username = "root";
-        String password = "Pallavi@2007";
+        String password = "your_sql_password";
         String query = "INSERT INTO book(book_id, title, author, available) VALUES (?,?,?,?);";
 
         try //Automatically closes resources
